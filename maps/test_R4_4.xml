@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Map Columns="10" Rows="10">
+<Werewolves X="3" Y="3" Count="20"/>
+<Vampires X="4" Y="6" Count="16"/>
+</Map>
