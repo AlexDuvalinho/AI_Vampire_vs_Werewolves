@@ -8,3 +8,5 @@ The goal of this project is to develop an Artificial Intelligence to play the Va
 - create a SmartScan that would give us long term thinking and restrict the number of possible moves (only interesting moves) 
 - find ways to store some results and win computation time 
 - test on many different maps to make sure our player is robust. As a result, no bug was encountered during the competition which is a great achievement.
+
+The project report summarizes our work and gives some detailed theoretical explanations about the bot's behaviour. 
